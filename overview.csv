@@ -1,0 +1,7 @@
+Dataset Name,Description,Number of Molecules,Comments
+MoleculeNet_ESOL,Water solubility data (log solubility in mols per litre) for common organic small molecules,1128,
+MoleculeNet_FreeSolv,Experimental and calculated hydration free energy of small molecules in water,642,
+MoleculeNet_Lipophilicity,Experimental results of octanol/water distribution coefficient (logD at pH 7.4),4200,
+MoleculeNet_QM7,"Electronic properties (atomization energy, HOMO/LUMO, etc.) determined using ab-initio density functional theory (DFT)",6834,This version of the data set was retrieved from http://deepchem.io.s3-website-us-west-1.amazonaws.com/ rather than from MoleculeNet.ai and has slightly fewer molecules than are contained in the .mat file from MoleculeNet.ai
+MoleculeNet_QM8,Electronic spectra and excited state energy of small molecules calculated by multiple quantum mechanic methods,21786,
+MoleculeNet_QM9,"Geometric,  energetic, electronic and thermodynamic properties of DFT-modelled small molecules",133885,
